@@ -2,9 +2,9 @@
 
 Meu nome é Maria Eduarda
 
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem do JavaScript
--Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem do JavaScript
+- Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 ### Você entrar em contato comigo 📫
 
